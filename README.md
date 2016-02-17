@@ -1,6 +1,6 @@
 # gulp-press
 
-## Basic setup using node.js and gulp for wordpress theming
+### Basic setup using node.js and gulp for wordpress theming
 
 ## Setup:
 
