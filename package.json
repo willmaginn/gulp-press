@@ -1,0 +1,25 @@
+{
+  "name": "gulp-press",
+  "version": "1.0.0",
+  "description": "Basic setup using node.js and gulp for wordpress theming",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "latest",
+    "gulp-ruby-sass": "latest",
+    "gulp-livereload": "latest",
+    "gulp-notify": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/willmaginn/gulp-press"
+  },
+  "author": "Will Maginn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willmaginn/gulp-press/issues"
+  },
+  "homepage": "https://github.com/willmaginn/gulp-press"
+}
